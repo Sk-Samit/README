@@ -1,6 +1,6 @@
 # Hi, I'm Samit :)
 
-I'm an undergraduate passionate about building strong fundamentals in programming and software development. Currently, I'm learning:
+I'm an undergraduate student passionate about building strong fundamentals in programming and software development. Currently, I'm learning:
 
 -  Python  
 -  C Programming  
