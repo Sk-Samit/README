@@ -1,3 +1,4 @@
+<img src="banner.png" alt="Samit's banner" width="100%" />
 # Hi, I'm Samit :)
 
 I'm an undergraduate passionate about building strong fundamentals in programming and software development. Currently, I'm learning:
